@@ -1,0 +1,6 @@
+OrderID,Product,Category,Quantity,Price,Region
+101,Mobile,Electronics,2,15000,North
+102,Laptop,Electronics,1,55000,South
+103,Shirt,Clothings,3,1200,East
+104,Shoes,Footwear,2,3000,West
+105,TV,Electronics,1,45000,North
