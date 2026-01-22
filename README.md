@@ -7,7 +7,6 @@
 **DURATION**:12 WEEKS
 **MENTOR**:NEELA SANTOSH
 
-# Big Data Analysis
 
 Big Data Analysis refers to the process of collecting, processing, and analyzing extremely large and complex datasets to extract meaningful insights and support data-driven decision-making. With the rapid growth of digital technologies, massive volumes of data are generated every second from sources such as social media platforms, transactional systems, sensors, log files, and online applications. Traditional data processing systems are often unable to handle this scale and complexity efficiently, making big data technologies essential.
 
